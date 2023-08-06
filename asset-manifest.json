@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hakaton-2/static/css/main.87a9c185.css",
+    "main.js": "/hakaton-2/static/js/main.86817a33.js",
+    "static/js/787.fd3b734a.chunk.js": "/hakaton-2/static/js/787.fd3b734a.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/hakaton-2/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/hakaton-2/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/hakaton-2/index.html",
+    "main.87a9c185.css.map": "/hakaton-2/static/css/main.87a9c185.css.map",
+    "main.86817a33.js.map": "/hakaton-2/static/js/main.86817a33.js.map",
+    "787.fd3b734a.chunk.js.map": "/hakaton-2/static/js/787.fd3b734a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a9c185.css",
+    "static/js/main.86817a33.js"
+  ]
+}
